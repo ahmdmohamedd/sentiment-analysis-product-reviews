@@ -94,7 +94,7 @@ The system evaluates the model's performance using:
 
 ```
 Accuracy: 85.81%
-Precision: 0.86, Recall: 0.85, F1-Score: 0.86
+Precision: 0.86, Recall: 0.86, F1-Score: 0.86
 ```
 
 ## Future Enhancements
